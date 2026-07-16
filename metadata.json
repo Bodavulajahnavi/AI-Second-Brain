@@ -1,0 +1,6 @@
+{
+  "name": "AI Second Brain",
+  "description": "An interactive context system that links Obsidian notes in a dynamic knowledge graph and empowers an integrated Claude AI Assistant with perfect contextual recall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
